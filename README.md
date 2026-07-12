@@ -1,4 +1,4 @@
-# TransitOps — Smart Transport Operations Platform
+# TransitOps — Smart Transport Operations Platform For ODOO Hackathon
 
 Full-stack fleet ops app: vehicles, drivers, trips, maintenance, fuel/expenses,
 dashboard KPIs, and reports. Built for the 8-hour hackathon brief.
